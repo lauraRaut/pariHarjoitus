@@ -1,0 +1,16 @@
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\bin\Debug\net5.0\week2excPeople.exe
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\bin\Debug\net5.0\week2excPeople.deps.json
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\bin\Debug\net5.0\week2excPeople.runtimeconfig.json
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\bin\Debug\net5.0\week2excPeople.runtimeconfig.dev.json
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\bin\Debug\net5.0\week2excPeople.dll
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\bin\Debug\net5.0\ref\week2excPeople.dll
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\bin\Debug\net5.0\week2excPeople.pdb
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\obj\Debug\net5.0\week2excPeople.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\obj\Debug\net5.0\week2excPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\obj\Debug\net5.0\week2excPeople.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\obj\Debug\net5.0\week2excPeople.AssemblyInfo.cs
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\obj\Debug\net5.0\week2excPeople.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\obj\Debug\net5.0\week2excPeople.dll
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\obj\Debug\net5.0\ref\week2excPeople.dll
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\obj\Debug\net5.0\week2excPeople.pdb
+C:\Users\laura\source\repos\week2excPeople\week2excPeople\obj\Debug\net5.0\week2excPeople.genruntimeconfig.cache
